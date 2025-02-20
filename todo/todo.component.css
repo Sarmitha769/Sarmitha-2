@@ -1,0 +1,10 @@
+.completed {
+    text-decoration: line-through;
+    text-decoration-color: rgb(58, 228, 115);
+  }
+  p,h2,div{
+    text-align: center;
+    color:aquamarine;
+    
+  }
+
